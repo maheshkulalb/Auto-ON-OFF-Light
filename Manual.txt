@@ -1,0 +1,7 @@
+Components:
+	1. Arduino nano
+	2. BH 1750 (Light intensity sensor)
+	3. Breadboard
+	4. jumper cable
+Software used:
+	1.Arduino IDE
